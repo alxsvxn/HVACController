@@ -1,4 +1,6 @@
-﻿Option Strict On
+﻿'Alexis Villagran
+
+Option Strict On
 Option Explicit On
 
 Imports System.IO.Ports
